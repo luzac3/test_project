@@ -1,0 +1,14 @@
+ul{
+    width:7%;
+}
+
+li{
+    position:relative;
+    left:5%;
+    width:95%;
+    border:solid 1px #000000;
+}
+
+.hidden{
+    display:none;
+}
