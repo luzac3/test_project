@@ -16,7 +16,7 @@ window.onload = function(){
 
     function om_event(e){
         console.log(this);
-        this.style.backgroundColor = #999999;
+        this.style.backgroundColor = "#999999";
     }
 
     function cl_event(e){
@@ -59,6 +59,4 @@ window.onload = function(){
             this.id;
         }
     }
-
-
 }
